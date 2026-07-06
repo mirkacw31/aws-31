@@ -415,7 +415,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .section__6-item p{
@@ -433,25 +432,21 @@
     text-align:center;
     box-shadow:0 2px 8px rgba(0,0,0,.05);
 }
-
 .section__6-contact h2{
     font-size:42px;
     color:#222;
     margin-bottom:18px;
 }
-
 .section__6-contact p{
     font-size:18px;
     color:#777;
     margin-bottom:35px;
 }
-
 .section__6-social{
     display:flex;
     justify-content:center;
     gap:20px;
 }
-
 .section__6-social a{
     text-decoration:none;
     color:#222;
@@ -465,8 +460,6 @@
     font-size:18px;
     transition:.3s;
 }
-
-
 .section__6-social a:hover{
     background:#f5f5f5;
 }
